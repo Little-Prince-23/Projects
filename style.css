@@ -9,6 +9,8 @@
 
 .container {
   background: url(./background.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
   height: 100vh;
   display: flex;
   flex-direction: column;
